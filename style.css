@@ -278,8 +278,17 @@ footer #linea2 a:first-child{
                 font-size: 20px;
             }
 
-            .checkbox-items label{
-                font-size: 15px;
+            #checkbox-items label{
+                font-size: 20px;
+            }
+
+            footer #linea1{
+                flex-direction: column;
+            }
+
+            footer #direccion{
+                width: 95%;
+                margin-bottom: 20px;
             }
         }
     }
